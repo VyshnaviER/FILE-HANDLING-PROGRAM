@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTHOSH
 
-# PROGRAM DESCRIPTION – FILE HANDLING IN C
+PROGRAM DESCRIPTION – FILE HANDLING IN C
 
 This project demonstrates a basic yet significant concept in C programming: File Handling. The primary objective of this program is to illustrate how to create a text file, write content to that file, append additional information, and finally read and display the file's contents. These operations form the backbone of many real-world applications and are considered essential for every C programmer, especially those working in system-level programming, data logging, or embedded development environments.
 
