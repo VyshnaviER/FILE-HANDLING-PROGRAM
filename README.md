@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTHOSH
 
-PROGRAM DESCRIPTION – FILE HANDLING IN C
+# PROGRAM DESCRIPTION – FILE HANDLING IN C
 
 This project demonstrates a basic yet significant concept in C programming: File Handling. The primary objective of this program is to illustrate how to create a text file, write content to that file, append additional information, and finally read and display the file's contents. These operations form the backbone of many real-world applications and are considered essential for every C programmer, especially those working in system-level programming, data logging, or embedded development environments.
 
@@ -74,3 +74,6 @@ Any application that requires reading or writing persistent data to files for lo
 
 In summary, this project effectively demonstrates how basic file operations in C can be applied in  the real-world contexts. The skills learned through this task not only help in academic development but also prepare programmers to handle file-related operations in larger software systems.File handling remains a vital concept in programming, and mastering it ensures better control over data and improved program functionality.
 
+# OUTPUT
+
+<img width="908" height="248" alt="Image" src="https://github.com/user-attachments/assets/1b8aced6-4451-4515-b591-747e2ea85252" />
